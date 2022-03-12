@@ -15,7 +15,7 @@ var back ;
 
 function preload() {
    
-    back = loadImage("sprites/bg2.png")
+    back = loadImage("sprites/bg2.jpg")
 }
 
 function setup(){
